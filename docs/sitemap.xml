@@ -8,48 +8,12 @@
   </url>
   
   <url>
-    <loc>http://gazos6.github.io/02/post/another-post/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://gazos6.github.io/02/post/welcome-to-hugo/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://gazos6.github.io/02/post/~anekjedna/</loc>
-  </url>
-  
-  <url>
-    <loc>http://gazos6.github.io/02/about/</loc>
-  </url>
-  
-  <url>
     <loc>http://gazos6.github.io/02/post/</loc>
     <lastmod>2018-03-30T18:31:13+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gazos6.github.io/02/tags/beatles/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://gazos6.github.io/02/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gazos6.github.io/02/tags/data/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gazos6.github.io/02/tags/hello-world/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,20 +23,15 @@
   </url>
   
   <url>
-    <loc>http://gazos6.github.io/02/tags/hugo/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://gazos6.github.io/02/about/</loc>
   </url>
   
   <url>
-    <loc>http://gazos6.github.io/02/tags/start/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://gazos6.github.io/02/post/projektov%C3%BD-t%C3%BDm/</loc>
   </url>
   
   <url>
     <loc>http://gazos6.github.io/02/tags/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
