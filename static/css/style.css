@@ -1,3 +1,7 @@
+body {
+  background-color: #DAA520;
+}
+
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
