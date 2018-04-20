@@ -16,11 +16,11 @@ footer {
 
 .page {
   float: right;
-  width: 7%;
+  width: 70%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
-  min-height: 4px;
+  min-height: 400px;
 }
 
 aside {
