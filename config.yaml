@@ -2,6 +2,7 @@ title: Numismatics
 baseURL: http://gazos6.github.io/02/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics: UA-117910355-1
 
 menu:
   main:
