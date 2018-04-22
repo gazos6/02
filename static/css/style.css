@@ -32,11 +32,15 @@ footer {
   padding-bottom: 1em;
   border-color: grey;
   min-height: 400px;
+<<<<<<< HEAD
   background-color: #DCDCDC;
   background-image: url("https://www.publicdomainpictures.net/pictures/60000/velka/silver-background-for-christmas.jpg");
   background-repeat: repeat;
   background-size: 1500px;
   
+=======
+
+>>>>>>> 92de770eed17ca3e64d2e16241274c690e0b351d
 }
 
 aside {
