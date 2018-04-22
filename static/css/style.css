@@ -1,16 +1,25 @@
-.wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
+body{
+  background-color: #F5F5F5;
 }
+
+
 
 header {
-  padding: 30px 0 0;
-  border-bottom: solid;
+  padding: 20px;
+  font-size: 2em;
+  font-family: Algerian;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Austria-XXV-matrimonio-1879-Francesco-I-e-Sissi.jpg/800px-Austria-XXV-matrimonio-1879-Francesco-I-e-Sissi.jpg"), 
+  url("https://upload.wikimedia.org/wikipedia/commons/3/3b/Claudius_II_coin_%28colourised%29.png"),
+  url("https://upload.wikimedia.org/wikipedia/commons/3/3e/Myrbach-Battle_of_Lodi.jpg");
+  background-repeat: no-repeat;
+  background-position: 1px, 970px, 270px;
+  background-size: 500px, 450px, 1500px;
+  background-color: #DCDCDC;
 }
 
+
 footer {
-  border-top: solid;
+  
   clear: both;
 }
 
@@ -18,9 +27,16 @@ footer {
   float: right;
   width: 70%;
   border-left: solid;
-  padding-left: 1.5em;
-  padding-bottom: 2em;
+  border-top: solid;
+  padding-left: 30px;
+  padding-bottom: 1em;
+  border-color: grey;
   min-height: 400px;
+  background-color: #DCDCDC;
+  background-image: url("https://www.publicdomainpictures.net/pictures/60000/velka/silver-background-for-christmas.jpg");
+  background-repeat: repeat;
+  background-size: 1500px;
+  
 }
 
 aside {
@@ -31,11 +47,22 @@ aside {
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 10;
 }
 
 nav li {
-  margin-bottom: 1em;
+  margin-bottom: 14px;
+  font-size: 25px;
+  font-family: Arial Black;
+  background-color: #DCDCDC;
+  border-bottom: solid;
+  border-bottom-color: grey;
+  border-left: solid;
+  border-right: solid;
+  border-top: solid;
+  border-top-color: grey;
+  border-left-width: 4px;
+  border-right-width: 4px;
 }
 
 nav .active {
