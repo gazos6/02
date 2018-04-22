@@ -3,6 +3,7 @@ baseURL: http://gazos6.github.io/02/
 languageCode: cs-cz
 publishDir: docs
 encoding: UTF-8
+googleAnalytics: UA-117910355-1
 
 menu:
   main:

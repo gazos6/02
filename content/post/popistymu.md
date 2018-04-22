@@ -1,5 +1,5 @@
 ---
-title: "Projektový tým"
+title: "Projektovy tym"
 date: 2018-04-01T21:59:35+02:00
 draft: false
 ---

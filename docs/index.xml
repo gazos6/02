@@ -6,13 +6,22 @@
     <description>Recent content in Home on Numismatics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Fri, 30 Mar 2018 18:31:13 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 21:59:35 +0200</lastBuildDate>
     
 	<atom:link href="http://gazos6.github.io/02/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Clanekjedna</title>
+      <title>Projektovy tym</title>
+      <link>http://gazos6.github.io/02/post/popistymu/</link>
+      <pubDate>Sun, 01 Apr 2018 21:59:35 +0200</pubDate>
+      
+      <guid>http://gazos6.github.io/02/post/popistymu/</guid>
+      <description>�leny t�mu jsou Michal Gazsi, Ond�ej Beran a Mark�ta Wolna. Na�� motivac� je splnit �kol a dozv�d�t se n�co v�ce o numismatice. J� (Michal) se o numismatiku zaj�m�m dlouhou a jsem sb�ratel minc�. Ond�ej Beran a Mark�ta Wolna by se o dan�m t�matu taky n�co r�di dozv�d�li a mo�n� i za�ali sb�rat mince.</description>
+    </item>
+    
+    <item>
+      <title>Prvni clanek</title>
       <link>http://gazos6.github.io/02/post/clanekjedna/</link>
       <pubDate>Fri, 30 Mar 2018 18:31:13 +0200</pubDate>
       
@@ -22,43 +31,13 @@
     </item>
     
     <item>
-      <title>All albums of The Beatles</title>
-      <link>http://gazos6.github.io/02/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://gazos6.github.io/02/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Hugo!</title>
-      <link>http://gazos6.github.io/02/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://gazos6.github.io/02/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://gazos6.github.io/02/post/~anekjedna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gazos6.github.io/02/post/~anekjedna/</guid>
-      <description>Gazos�������������������������������������������������G�a�z�o�s���,Pd#������Ў#��q�a����������.������u�~����&amp;gt;H��D��( z���������������5By;g#��X�aH?(</description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>O projektu</title>
       <link>http://gazos6.github.io/02/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gazos6.github.io/02/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <description>Cílová skupina Jako cílovou skupinu bych označil mladé začínající sběratele, stránku mohou navšťevovat i starší a zkušenější, ale pro ně tu nebude nejspíš nic moc nového.
+Cíl webu Cílem webu je přiblížit numismatiku mladším lidem, ukázat co a jak lze sbírat, jaké jsou postupy a nějaké rady co se týče tohoto tématu. Přiblížíme zde investice do mincí, ale i základní informace o nejčastěji sbíraných mincí a přehled nejvzácnějších mincí. Jako hlavní cíl webu bych zvolil poukázání na tuto podle mne, né velmi známou oblast sběratelství a obecně o tomto tématu moc lidí neví.</description>
     </item>
     
   </channel>
