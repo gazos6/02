@@ -12,7 +12,7 @@ header {
   url("https://upload.wikimedia.org/wikipedia/commons/3/3b/Claudius_II_coin_%28colourised%29.png"),
   url("https://upload.wikimedia.org/wikipedia/commons/3/3e/Myrbach-Battle_of_Lodi.jpg");
   background-repeat: no-repeat;
-  background-position: 1px, 970px, 270px;
+  background-position: 1px, 875px, 270px;
   background-size: 500px, 450px, 1500px;
   background-color: #DCDCDC;
 }
@@ -25,22 +25,19 @@ footer {
 
 .page {
   float: right;
-  width: 70%;
+  width: 60%;
   border-left: solid;
   border-top: solid;
   padding-left: 30px;
   padding-bottom: 1em;
   border-color: grey;
   min-height: 400px;
-<<<<<<< HEAD
   background-color: #DCDCDC;
   background-image: url("https://www.publicdomainpictures.net/pictures/60000/velka/silver-background-for-christmas.jpg");
   background-repeat: repeat;
   background-size: 1500px;
   
-=======
 
->>>>>>> 92de770eed17ca3e64d2e16241274c690e0b351d
 }
 
 aside {
