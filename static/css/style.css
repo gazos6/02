@@ -6,7 +6,7 @@ body{
 
 header {
   padding: 20px;
-  font-size: 2em;
+  font-size: 32px;
   font-family: Algerian;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Austria-XXV-matrimonio-1879-Francesco-I-e-Sissi.jpg/800px-Austria-XXV-matrimonio-1879-Francesco-I-e-Sissi.jpg"), 
   url("https://upload.wikimedia.org/wikipedia/commons/3/3b/Claudius_II_coin_%28colourised%29.png"),
@@ -25,11 +25,11 @@ footer {
 
 .page {
   float: right;
-  width: 60%;
+  width: 1700px;
   border-left: solid;
   border-top: solid;
   padding-left: 30px;
-  padding-bottom: 1em;
+  padding-bottom: 32px;
   border-color: grey;
   min-height: 400px;
   background-color: #DCDCDC;
@@ -42,8 +42,8 @@ footer {
 
 aside {
   float: left;
-  width: 25%;
-  margin-top: 1em;
+  width: 255px;
+  margin-top: 16px;
 }
 
 nav ul {
