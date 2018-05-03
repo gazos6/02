@@ -6,10 +6,19 @@
     <description>Recent content in Home on Numismatics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 02 May 2018 15:27:25 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 May 2018 15:52:27 +0200</lastBuildDate>
     
 	<atom:link href="http://gazos6.github.io/02/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>History</title>
+      <link>http://gazos6.github.io/02/post/history/</link>
+      <pubDate>Thu, 03 May 2018 15:52:27 +0200</pubDate>
+      
+      <guid>http://gazos6.github.io/02/post/history/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investice</title>
@@ -50,20 +59,11 @@
     
     <item>
       <title></title>
-      <link>http://gazos6.github.io/02/post/~istory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gazos6.github.io/02/post/~istory/</guid>
-      <description>Gazos�������������������������������������������������G�a�z�o�s�������������xe����Fd����������F�������o���������������������������������ߔ ��;TFd��</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://gazos6.github.io/02/post/~vestice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gazos6.github.io/02/post/~vestice/</guid>
-      <description>Gazos�������������������������������������������������G�a�z�o�s�����������S�xe����Fd����������������i~�s���(8O��%��s���������������ߔ ��;TFd�A�</description>
+      <description>Gazos�������������������������������������������������G�a�z�o�s����f������b�x�����Fd����������`������+��Q����(8O�����Q����������������5�h��;TFdI�</description>
     </item>
     
     <item>
