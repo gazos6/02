@@ -1,20 +1,24 @@
 body{
-  background-color: #F5F5F5;
+  background-color: lightgreen;
+  background-image: url();
 }
 
 
 
 header {
-  padding: 20px;
-  font-size: 32px;
+  text-align: center;
+  font-size: 28px;
   font-family: Algerian;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Austria-XXV-matrimonio-1879-Francesco-I-e-Sissi.jpg/800px-Austria-XXV-matrimonio-1879-Francesco-I-e-Sissi.jpg"), 
+  font-weight: 20px;
+  background-image:
+  url("https://c2.staticflickr.com/6/5680/22302333629_0d42d94d22_b.jpg"),
+  url("https://upload.wikimedia.org/wikipedia/commons/3/3b/Claudius_II_coin_%28colourised%29.png"),
   url("https://upload.wikimedia.org/wikipedia/commons/3/3b/Claudius_II_coin_%28colourised%29.png"),
   url("https://upload.wikimedia.org/wikipedia/commons/3/3e/Myrbach-Battle_of_Lodi.jpg");
   background-repeat: no-repeat;
-  background-position: 1px, 875px, 270px;
-  background-size: 500px, 450px, 1500px;
-  background-color: #DCDCDC;
+  background-position: 50%, 10%, 90%, 50%;
+  background-size: 40%, 18%, 18%, 100%; 
+  background-color: white;
 }
 
 
@@ -24,19 +28,21 @@ footer {
 }
 
 .page {
-  float: right;
-  width: 1700px;
-  border-left: solid;
-  border-top: solid;
-  padding-left: 30px;
-  padding-bottom: 32px;
-  border-color: grey;
-  min-height: 400px;
-  background-color: #DCDCDC;
-  background-image: url("https://www.publicdomainpictures.net/pictures/60000/velka/silver-background-for-christmas.jpg");
-  background-repeat: repeat;
-  background-size: 1500px;
   
+  float: right;
+  width: 70%;
+  border-left: 1.5px solid;
+  border-top: 1.5px solid;
+  border-right: 1.5px solid;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 1em;
+  border-color: #ffbc36;
+  min-height: 400px;
+  background-color: lightblue;
+
+  
+
 
 }
 
@@ -53,17 +59,13 @@ nav ul {
 
 nav li {
   margin-bottom: 14px;
-  font-size: 25px;
+  font-size: 20px;
   font-family: Arial Black;
-  background-color: #DCDCDC;
+  background-color: white;
   border-bottom: solid;
-  border-bottom-color: grey;
-  border-left: solid;
-  border-right: solid;
-  border-top: solid;
-  border-top-color: grey;
-  border-left-width: 4px;
-  border-right-width: 4px;
+  border-bottom-color: #ffbc36;
+
+
 }
 
 nav .active {
