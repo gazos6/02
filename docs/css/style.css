@@ -1,5 +1,5 @@
 body{
-  background-color: lightgreen;
+  background-color: white;
   background-image: url();
 }
 
@@ -31,15 +31,15 @@ footer {
   
   float: right;
   width: 70%;
-  border-left: 1.5px solid;
-  border-top: 1.5px solid;
-  border-right: 1.5px solid;
+  border-left: 1.5px dashed;
+  border-top: 1.5px dashed;
+  border-right: 1.5px dashed;
   padding-left: 30px;
   padding-top: 10px;
   padding-bottom: 1em;
   border-color: #ffbc36;
   min-height: 400px;
-  background-color: lightblue;
+  background-color: white;
 
   
 
