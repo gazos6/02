@@ -4,4 +4,4 @@ date: 2018-04-01T21:59:35+02:00
 draft: true
 ---
 
-Èleny tımu jsou Michal Gazsi, Ondøej Beran a Markéta Wolna. Naší motivací je splnit úkol a dozvìdìt se nìco více o numismatice. Já (Michal) se o numismatiku zajímám dlouhou a jsem sbìratel mincí. Ondøej Beran a Markéta Wolna by se o daném tématu taky nìco rádi dozvìdìli a moná i zaèali sbírat mince.
+ÄŒleny tÃ½mu jsou Michal Gazsi, OndÅ™ej Beran a MarkÃ©ta Wolna. NaÅ¡Ã­ motivacÃ­ je splnit Ãºkol a dozvÄ›dÄ›t se nÄ›co vÃ­ce o numismatice. JÃ¡ (Michal) se o numismatiku zajÃ­mÃ¡m dlouhou dobu a jsem sbÄ›ratel mincÃ­. OndÃ¸ej Beran a MarkÃ©ta Wolna by se o danÃ©m tÃ©matu taky nÄ›co rÃ¡di dozvÄ›dÄ›li a moÅ¾nÃ¡ i zaÄali sbÃ­rat mince.
