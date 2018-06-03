@@ -6,10 +6,19 @@
     <description>Recent content in Archive on Numismatics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 02 May 2018 15:27:25 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 May 2018 15:52:27 +0200</lastBuildDate>
     
 	<atom:link href="http://gazos6.github.io/02/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>History</title>
+      <link>http://gazos6.github.io/02/post/history/</link>
+      <pubDate>Thu, 03 May 2018 15:52:27 +0200</pubDate>
+      
+      <guid>http://gazos6.github.io/02/post/history/</guid>
+      <description>Prvn� �eskou ra�enou m�nou byly den�ry, kter� se za�aly razit na konci vl�dy kr�le Boleslava I., zhruba po roce 970. Byly to mal� oboustrann� st��brn� mince o v�ze 1,5 g a pom�rn� vysok� ryzosti. Do t� doby v �ech�ch ob�haly ve funkci platidla jak�si jemn� ��te�ky. Jeden den�r sta�il pro jednoho �lov�ka na m�s��n� �ivobyt�. N�zev den�r odvozen z latinsk�ho denarius dena = deset, proto�e den�r se d�lil na 10 m�d�n�ch minc� as�.</description>
+    </item>
     
     <item>
       <title>Investice</title>
@@ -54,7 +63,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gazos6.github.io/02/post/projektov%C3%BD-t%C3%BDm/</guid>
-      <description>Členy týmu jsou Michal Gazsi, Ondřej Beran a Markéta Wolna. Naší motivací je splnit úkol a dozvědět se něco více o numismatice. Já (Michal) se o numismatiku zajímám dlouhou a jsem sběratel mincí. Ondřej Beran a Markéta Wolna by se o daném tématu taky něco rádi dozvěděli a možná i začali sbírat mince.</description>
+      <description>Členy týmu jsou Michal Gazsi, Ondřej Beran a Markéta Wolna. Naší motivací je splnit úkol a dozvědět se něco více o numismatice. Já (Michal) se o numismatiku zajímám dlouho a jsem sběratel mincí. Ondřej Beran a Markéta Wolna by se o daném tématu taky něco rádi dozvěděli a možná i začali sbírat mince.</description>
     </item>
     
   </channel>
